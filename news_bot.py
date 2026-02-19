@@ -92,9 +92,16 @@ def send_email(subject, body):
         print(f"Subject: {subject}")
         return
 
+    # Handle multiple receivers (comma separated)
+    if not EMAIL_RECEIVER:
+        print("No receiver email configured.")
+        return
+        
+    receivers = [r.strip() for r in EMAIL_RECEIVER.split(',')]
+
     msg = MIMEMultipart()
     msg['From'] = EMAIL_USER
-    msg['To'] = EMAIL_RECEIVER
+    msg['To'] = ", ".join(receivers)
     msg['Subject'] = subject
     msg.attach(MIMEText(body, 'html'))
 
@@ -102,8 +109,8 @@ def send_email(subject, body):
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
             server.login(EMAIL_USER, EMAIL_PASS)
-            server.sendmail(EMAIL_USER, EMAIL_RECEIVER, msg.as_string())
-        print("Email sent successfully!")
+            server.sendmail(EMAIL_USER, receivers, msg.as_string())
+        print(f"Email sent successfully to {len(receivers)} recipients!")
     except Exception as e:
         print(f"Email failed: {e}")
 
