@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "India's equity benchmarks log steepest drop in 2 weeks as US-Iran tensions weigh on sentiment - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtqdUhPUGkyRkJzQUFDVEl0WVcxOHA0cGNZcURFT3RnekQ1NkxLOXMwaWk3RlFqbEhpUFk5ZEpnOVhIUzlVMk5NX0Q4X1p5QzdCMHpqbkQyVWVOTzlXZTFMRTduRXVhbWFKMmM3cDBQWm43ci03SUhJWGxuSmZOWjN6ekl4YU1sc0QzSTN0WC1pX0taRjNraVBmOHRVTi1MNENKOA?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-19 21:56:47.589123"
+    }
+  ]
 }
