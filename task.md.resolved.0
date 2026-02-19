@@ -1,0 +1,17 @@
+# Task: News Alert System
+
+- [ ] Planning & Architecture <!-- id: 0 -->
+    - [ ] Create `implementation_plan.md` <!-- id: 1 -->
+    - [ ] Define "Breaking News" logic with Gemini API <!-- id: 2 -->
+    - [ ] Select deployment strategy (GitHub Actions vs Cloud Function) <!-- id: 3 -->
+- [ ] Implementation <!-- id: 4 -->
+    - [ ] Create Python script for fetching news (Google News RSS) <!-- id: 5 -->
+    - [ ] Implement Gemini API filter for "Breaking" vs "Digest" <!-- id: 6 -->
+    - [ ] Implement Email notification system (SMTP) <!-- id: 7 -->
+    - [ ] Implement simplistic state management (avoid duplicate alerts) <!-- id: 8 -->
+- [ ] Deployment Configuration <!-- id: 9 -->
+    - [ ] Create GitHub Actions workflow (`.github/workflows/main.yml`) <!-- id: 10 -->
+    - [ ] Document Environment Variables setup <!-- id: 11 -->
+- [ ] Verification <!-- id: 12 -->
+    - [ ] Test run locally <!-- id: 13 -->
+    - [ ] Verify email delivery <!-- id: 14 -->

@@ -1,0 +1,12 @@
+{
+  "topics": [
+    "Artificial Intelligence models",
+    "AI breakthroughs",
+    "Indian politics",
+    "Indian stock market"
+  ],
+  "monitoring": {
+    "breaking_threshold": 9,
+    "digest_threshold": 4
+  }
+}

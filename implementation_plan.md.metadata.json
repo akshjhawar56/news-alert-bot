@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "Updated plan to prioritize extreme breaking news only and manage specific topics for the daily digest. Using a topics.json for user configurability.",
+  "updatedAt": "2026-02-19T18:10:47.883907Z",
+  "version": "1"
+}

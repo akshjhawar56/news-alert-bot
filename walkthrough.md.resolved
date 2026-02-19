@@ -1,0 +1,30 @@
+# News Alert System Walkthrough
+
+I have built a Python-based news monitoring bot that uses Google News RSS and Gemini AI to filter for breaking news.
+
+## Features Built
+1.  **Smart Filtering**: Uses `gemini-flash-latest` to rate news urgency (1-10).
+2.  **Instant Alerts**: Sends emails immediately for "Extreme Breaking News" (Urgency 9-10).
+3.  **Daily Digest**: Queues relevant news (Urgency 4-8) and emails a summary daily.
+4.  **GitHub Actions**: Configured to run automatically every 20 minutes (for checks) and daily at 6:30 PM IST (for digest).
+5.  **State Management**: Tracks seen articles and queues in JSON files committed to the repo.
+
+## Verification
+### 1. Local Testing
+- **Check Mode**: Ran `python news_bot.py --mode check`. Confirmed it fetches news, filters via Gemini, and adds items to `digest_queue.json`.
+- **Digest Mode**: Ran `python news_bot.py --mode digest`. Confirmed it reads from the queue and successfully sends an email to `aksh.jhawar56@gmail.com`.
+- **Rate Limits**: Adjusted logic to sleep 10s between articles to respect Gemini free tier limits.
+
+## Deployment Steps
+1.  **Push to GitHub**: Upload these files to a new repository.
+2.  **Add Secrets**: In Repo Settings -> Secrets -> Actions, add:
+    - `GEMINI_API_KEY`
+    - `EMAIL_USER` (your gmail)
+    - `EMAIL_PASS` (app password)
+3.  **Enable Actions**: The bot will start running automatically.
+
+## Files Created
+- [news_bot.py](file:///C:/Users/akshj/.gemini/antigravity/brain/e797fd9c-aa69-4bf8-a343-28e90551c1b7/news_bot.py): The core logic.
+- [.github/workflows/main.yml](file:///C:/Users/akshj/.gemini/antigravity/brain/e797fd9c-aa69-4bf8-a343-28e90551c1b7/.github/workflows/main.yml): The automation schedule.
+- [config/topics.json](file:///C:/Users/akshj/.gemini/antigravity/brain/e797fd9c-aa69-4bf8-a343-28e90551c1b7/config/topics.json): Your editable topic list.
+- [README.md](file:///C:/Users/akshj/.gemini/antigravity/brain/e797fd9c-aa69-4bf8-a343-28e90551c1b7/README.md): Detailed setup guide.

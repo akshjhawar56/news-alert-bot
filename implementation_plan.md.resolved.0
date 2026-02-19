@@ -1,0 +1,54 @@
+# Implementation Plan - News Alert System
+
+## Goal Description
+Build a "set and forget" news monitoring system that:
+1.  Sends **instant emails** (approx. every 15-30 mins) for "Breaking News" (high urgency).
+2.  Sends a **Daily Digest** for other relevant news.
+3.  Runs 24/7 without the user's laptop, using **GitHub Actions** (Free Tier).
+
+## Architecture
+
+### 1. News Source: Google News RSS
+- **Why:** Free, real-time, no rate limits (within reason), and supports complex queries (e.g., `https://news.google.com/rss/search?q=Iran+US+relations`).
+- **Library:** `feedparser` (Python).
+
+### 2. "Breaking" Intelligence: Google Gemini API
+- **Problem:** Distinguishing "US attacks Iran" (Breaking) from "Opinion: Why US might attack Iran" (Not Breaking).
+- **Solution:** Send article titles to Gemini Flash (fast & cheap/free tier).
+- **Prompt:** "Rate the urgency of this news on a scale of 1-10. Return JSON: `{'urgency': 9, 'category': 'war'}`."
+- **Threshold:** Urgency >= 8 triggers instant email. Urgency 4-7 goes to Digest. < 4 is ignored.
+
+### 3. Notification: SMTP (Gmail)
+- **Method:** Standard Python `smtplib`.
+- **Auth:** User will need an "App Password" from their Google Account.
+
+### 4. Deployment: GitHub Actions (Cron)
+- **Schedule:**
+    - **Breaking Checker:** Runs every 20 minutes (`*/20 * * * *`).
+    - **Daily Digest:** Runs once a day (`0 18 * * *`).
+- **State Management:**
+    - **Problem:** GitHub Actions are stateless. How do we know we already sent the "Iran" email 20 mins ago?
+    - **Solution:** Commit a small `history.json` file back to the repo at the end of each run. 
+    - **Alternative:** Use a free KV store (e.g., Redis free tier) if committing to repo is too "noisy" (creates many commits). *Decision: Committing to repo is easiest for "start/stop" hobby projects, but a simple text file/json artifact is fine.*
+
+## Implementation Steps
+
+### Phase 1: The Core Script (`news_bot.py`)
+- `fetch_news(topic)`: Gets RSS feed.
+- `analyze_news(article)`: Calls Gemini API.
+- `send_email(subject, body)`: Sends via SMTP.
+- `main()`: Orchestrates the logic.
+
+### Phase 2: State Management
+- `load_history()` / `save_history()`: Reads/Writes to `history.json` to track seen article IDs.
+
+### Phase 3: Deployment
+- `.github/workflows/check_news.yml`: The cron job definition.
+- Secrets setup: `GEMINI_API_KEY`, `EMAIL_USER`, `EMAIL_PASS`.
+
+## User Review Required
+> [!IMPORTANT]
+> **GitHub Actions Frequency:** The free tier of GitHub Actions is generous but technically "guarantees" are loose. A 15-20 min interval is usually safe. "Instant" here means "within 20 mins".
+
+> [!WARNING]
+> **Commit Noise:** To remember which news was already sent, the bot will auto-commit to your repo. Your commit history will have many "Update state" entries. I can squash them or we can use a Gist if preferred, but repo commit is simplest.

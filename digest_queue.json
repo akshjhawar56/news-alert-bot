@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "title": "Nandan Nilekani Convinces Dario Amodei to Make India the AI Use Case Capital - Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFhZQ1RNQUpQYjdySURTLU43ajFnNkJOcjM2Zk9naUJKMDVDVGlHemVfS1ItYXAxeFJ0dkZXWFA2YmZVdVVLQkpYZHVaSjZvcjdSRTdZTUJ1Njl6b1Mzb29WUTNEVDFEQmI2N19tMjJDX2Rlbi1mbnkxQmphMFFMU21iSWJwZTJpSW8yZ2YyaE9YREFSU1VOYWJDQXR0NGtBRWFsc3NEU0wyT0lYWktvbXZ3ZU9JQUx5UlE?oc=5",
+      "topic": "AI breakthroughs",
+      "reason": "Significant strategic partnership for regional AI adoption, but not a technical breakthrough or immediate global emergency.",
+      "urgency": 4,
+      "time": "2026-02-20 00:07:18.493818"
+    },
+    {
+      "title": "\u2018Quid pro quo\u2019: How Indian firms fund parties whose governments help them - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3FRb0s1dkJiNHhlcVlFZ1V3Qk9ucWdsQ2U1NC01VWdFQ0JlZ1lFa21aelA2VUJSSFpDZFJSaE5TclFMakRNZmRWOGZDQ0JRZ3FENVZWdUdTSjlMU2VMMWlNZDJ3ZndlTmdWR2Nra1BIblVpYXY5Z1pabHQ1RFFabkY5T3V6a2paWXZ3dUlRT2R4NFphS3lkTG1SZXFHOGttSUl6N3JaWjdRUlNzYVN0elBtZ2xad9IBuwFBVV95cUxObjdmaUI2cUJaWmxUQ1A5Q3JzeFNUUnJXVUdnYzdIU0psSktZMUotaUQzMEVBaGNPQjI2UHZfQnAyVDd3ZzhYOGZsX1pHamw2RlRrTzZYQmlzcUo1NEFxTGdwZ2txdVFIN2ZIRGs3dW96QU40a01kS3BPcXZYSS1OV29ReE1MbkFNTHdhUHZteldWZ0lqd0JOOWpsZzB4a0Y5d3QxdUZ5dWdFVTBXY2lsNjB0a0JsRkpBQVY4?oc=5",
+      "topic": "Indian politics",
+      "reason": "Major investigative report on systemic political corruption and corporate funding.",
+      "urgency": 6,
+      "time": "2026-02-20 00:09:12.865343"
+    },
+    {
+      "title": "Why did stock market crash today? Nifty50 ends below 25,500; BSE Sensex down over 1,200 points - top reas - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQOVRNSmNrcHNzNkY1cGhuRV94N0RHMEtVN3hFVzU4cFpFeTlHQUtwY3JadFRnb1NTdHVRVE41LVo0UmtSdjVoWE1pUFlCeUVSZElaVm9wSUktcVdlUVJGZ3Rzc1FDX1pYdS0yOXlSLXpJbkhvYndaRXpvcExkZ3R1TkllRzlDTHpULUI1bS1pc0pjNDE2RkR5aDUtbXk5bTF6ZzAwM2M5Nnd3SGhud1kxTDhUbXBGTHRaNmJpdmVjaFl3SVNiRWtiRmJlckxRbFhfZEUtd3R2N1JIUm9XdFJhNFROWjVTZUg0aWdZWEJlekZHdkFGRW56ZTdLY0dMOE9TQ3FYTjJlSGRuS1RJY3F2UXVB0gGXAkFVX3lxTE5LOUNPOEZnUXZqNkx6dVhBTWpyQnpNSmxVcFpkOW92VnpNQ3k5ZW9NQmU0YnJ2eGZETGVsOHFiZzRmZVZrWXB3M0R4a09SaHkwQTM2c1kyVE9KR04xYjJfbU9kMjBqUUs1YTN0SGFjVlhER1JOZlV6WXJmcU82N2JCbXZfMmxtWVRHWmk1QzNmMTVrZl9lQllqX1p1ZWJWQlBlbzEyNl93Zk9aOWJNcHVJQ2l5aTcxYmREUTg4Y21rY3YxVDFUWG1CR21JdGc5Y3licWdra1JFTkxVSXM3X1NjRlBMZzBlYnZjQ0VGb19HVHl2QzM3bE1lUnFDNl9jcWktU2d4YnFGZkZGdjF3NERqU2lwV3NIZw?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Major single-day drop in Sensex and Nifty indices, signifying a significant market correction.",
+      "urgency": 7,
+      "time": "2026-02-20 00:11:04.083648"
+    },
+    {
+      "title": "Stock Market Today Highlights: Sensex crashes 1,236 pts, Nifty 50 ends below 25,500; all sectors in red - Mint",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdlpYVFVGRDBvUGdKdmNjZEhwX1pTb09TUXRxNXhNTmFJRDdrNGpEWVRQTWVOaXhOMDVkTVEzM1ZTS3BRZjdDa1ZWZWRsNTAwMVc0ckFGNnJrcm9hcjlQMHJTVVMtYjlBM0U3M1JOb3dWRHV1QVc4QWd3ZjhhNW5KRTItWGVsRUFsWnFPRWlhVnpLT1lZa3ppUW4tOTAya0lUREJvdjk5ZlVhSmVZRnpwLU93QzFSS2F1MUxPNm5mbmZWY0FmS1pCX0puOWluZ1dCRXNieWxsVE41Q0tobm9lM0hoZ0lVb0c4eW1lZFcyd0RaamduVHNMRGZ5V3Q2WlZ1MWhXWkpxUnlCSW5KN282V0pHT2NkUdIBmwJBVV95cUxOaHZTNHpmMHNjWUxSTmcwMVFoaENlOENFUWVIRUR0bFVKU0s0eGs2RWlYdlFidmJ3Y2xjenQtMFlPWVp0V3BPaGREZUdtRS1zWnRhWVQ5Z0ZjMGU1dDlRTXNpUkVIQTZTNkRwTkFZRW9tenJsZEVwbXREa1BKMHFYYU1ZTmVudnZCcko5ZHM2dUkwRS0xdGM0Nm9OcVNUM0VnNXYxLVBKSEpaVXFtUWt3Z1VpbjY2N3l5ZUhlZTB6M3JraUZGbmJ2ZFRoWko2QzdEN0ZOLUVZOF9SMVVyU21lVVZsV3dnTE9VbWtOTzM4WkZCVDhCVnd1NVlid0FYUjNvVXJ3NUhlcEF2ODRuemFpWWJQRHJRcHFTakFr?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Significant single-day crash in major indices with a broad-based sell-off across all sectors.",
+      "urgency": 8,
+      "time": "2026-02-20 00:11:58.766151"
+    },
+    {
+      "title": "Stock market crash today: Sensex tanks 1,200 pts, Nifty slips below 25,500 - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRGcyb2QtWkx0N0thNmgwNDVrczNQZEoyTWRRRm1na0I4akV4LWp5WHhvc2I4SEs2XzhoaFRPeXJiTWp3cWZKRUJ0TmtlODlJOFdBRlJMMmR3SURXcWlIZHZkbFdpUFNDNGFXc2JvRWZNeU1icmZ5WDNDeFFaQjNtM21lcEQzTXN5LXR2Wm5ZSmFUYWd3eDhETlcyMGNZOGYtc3lWSHZEaldreUp5RERNMm5rcWtWbloyV0djY01ZSmRHczlCRHYwZUU1cFhuSnBOY25ibXRHR2hUZG52YkdNM2p2TUtfaVZlNDRFQTlzdVBsc2_SAfgBQVVfeXFMTmV4ZGlGczZTc215RjZNYktFbWRjdGcxNkNkel9HVWprUXNiRFBfN3NZU0JWbTJEQkdHMUxDTG5wZjNLMjdjME03S3B0VE1lWGp6cVZxUndGZldhNFpKZ3ZGNklKNmZXaEp6bTNFLUdBc3lya3QwcTAteHByX1hCM3VEX1VPYXFmREIzTWt0eUwyelJabHFCa0tidTQ2bE4xczRocGMyVk9RUFlfU3BXdERreEVRNWNMamY2d2FoT0Y4VFZCVlhFMnVQZldjak5uOEtMbnAwazZEMUxsVXB4TnJXVHNlMHFGZFV0LVVyQWZaX0gxN3kxR0k?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-20 00:12:23.419383"
+    }
+  ]
+}
