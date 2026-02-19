@@ -25,6 +25,7 @@ This bot is designed to run on GitHub Actions for free.
 | `GEMINI_API_KEY` | Your Google AI Studio API Key |
 | `EMAIL_USER` | Your Gmail address (e.g., `aksh...@gmail.com`) |
 | `EMAIL_PASS` | Your Gmail App Password (16-letter code) |
+| `EMAIL_RECEIVER` | (Optional) The email to receive alerts. Defaults to sending to yourself. |
 
 4.  **Enable Actions:** Go to the "Actions" tab in your repo and enable workflows if asked.
 5.  **Done!** The bot will check for news every 20 minutes automatically.
