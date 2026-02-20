@@ -151,6 +151,22 @@
       "reason": "Error analyzing",
       "urgency": 5,
       "time": "2026-02-20 07:55:42.782433"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUg0WnM3MnlQZ1NsUGdEYWJ0ZmZkZFU1MERHYzJKdVVjdmw2OW93cjRqS1Y5UE1YVFlZQ3VCd3FJUWRUWlczUEF0Z1ZMWFpEZ1l0cXB6M3BKdzVDQVgtejdCWGZ5UV93NVVvMmFFc1dnZEZuQVhJenZNLUgyR25fLW93dWhMbnNLVUtzZE5hcUE?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Major version update and release of a high-performance AI model from a leading developer.",
+      "urgency": 5,
+      "time": "2026-02-20 10:05:23.739301"
+    },
+    {
+      "title": "Stock Market Live Feb 20: Sensex vaults 400 points to 82,912, Nifty50 above 25,500 - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFBhUE9acUVidDJzeTdTWFZVaENVTDVUMXdNbWpNMy0yZ0ViOW42TGh4LXJocU1mNk9wMEVUOWtQQTVEdmd1XzloYy11eXNKMkJFRF93TE9hLUI5WHYyNkI2X0M0U0laQlluRWZmSi1sX25nbi01LXVyZW5zUlZRZUpwVl8zbExZODdpSEFfMndTWXh1aTRhQUtnX3A5NFNZRHI3eG9uV1QySVMxLWJQMGh4MjhXQVJZSDJVakpFMA?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Daily market update reporting positive movement and index milestones.",
+      "urgency": 4,
+      "time": "2026-02-20 10:08:17.485512"
     }
   ]
 }
