@@ -1,3 +1,44 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVVnRTF0SGtmaDlvUXRGS3Bxdy0taEp4WS0tdEQxWTRmdXBtTmpmbTB5RVV3UndadEFwVjBock8zV3MxYk5VMVdpa01wYWZiOXktVHV5Wks0TjZiMm9vOHA2MmZCSG10V2tOckRZS1JBb3Z0YUZCbVhoZzhDOF85Rmg3aEMxd3o2VG45djNKbEVaQmVWTWdhU09sSHJMSHRvWllZMnhpVWNrZ3l0TDlUdDVpYkRjVFJtRldOQlJn?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-23 18:11:02.113044"
+    },
+    {
+      "title": "Open-Weight AI Models Fail the Jailbreak Test - GovInfoSecurity",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHpRRGNXbDRWT1gwX1ZZVGNWWjdZc1hOZzkyWEJ3MXdFOVdodjFjUnN3NExWU1JtQ2JnWjZUSnFsNGItSlpReXZOSFR0MzFVaGFsOU5XbE9zSjFkd093cjl3S0lEMEZZQzFvdGpYYlBJUHN1ZUpWNExmS2NJN2RMOVpQT1Z3TjBZ?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-23 18:11:28.153232"
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 23 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa0w1RURONHNuOWltYjVzeEd2U2xYXzZwR3JlRmhLYjJwYWVsenl4RkQtQ3B3YkZna1cxbm9RUDNrc0dHc3FfNFZDTDZWNnJfSHVVRG44YzFHREVfck9LSDQwRUU4eU5OOXhMRXh3Wk1wV25VQzFrdEwxRFhxUGNwMmtOS0MwWHJhcFE0STNoVkI3TzZXbkVIN2lzTEFRTFRBZFpYc2dJWlg0QU5TMFZxMHRKU0xOZGxRUVZLMXZNSHpkaXR2RVdmcjVacHdaSGRQVDZF?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-23 18:11:53.120577"
+    },
+    {
+      "title": "The New Indian Investor: Young, Digital & Confident - IBEF",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkdhblc3d2NKa3daQnF1b3l4NGZxOW5UdDMzZVBQbW1GT0Raa0k1SDhfbmNDdFhZUWRndE43MUxmNGx0dnR0bnNUaGZMOE1uY1ltM3p6dUVuT3VPdnZUTUV0R1Y0NDl0R2pQZlJ6SEhwX2MxNGxQZnBjTnRBUUc4T1VrQkM?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-23 18:12:03.286811"
+    },
+    {
+      "title": "Taking Stock: Market extends gains for 2nd day; Nifty tops 25,700, Sensex jumps 480 pts - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMU1QbE9KMjNGdlZRbXE4UVRFczh3eldKcXZQZ3hzQ3ZxTlFsVVNzcjRpRXFHa3REWExVblVQMDdUYThsb3ZaR1BXN1BIeEkwdDZ0aURtc1FTY3NoMnBic1U0YzQxUHduUFg0RTZ2TUtrMy1ORTJES3ZZQjFZVVlmdlNuYzVQUF9XMG5mdngzUWd2eHBQYkQwS1Z6dDNjTnhWamNkTWlLRTBZb1VJS1dZVUZsRkxfcEZldExFdjcwVlBQNmtERkJEVU5HWUd5RlhYNEhJdzAyc0VmWno0X3VCOA?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-23 18:12:13.420089"
+    }
+  ]
 }
