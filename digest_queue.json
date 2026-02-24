@@ -1,3 +1,36 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "MANAS 1: India Unveils Brain Language AI Model for Early Disease Detection - The Indian Practitioner",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnpfSE1NZDlFdnZwZ2c0LUY0aGc3cFdVbHB3LW9Mcnd5NG9GNmctakZiYjV4UVNPbVp5cGYwdm1renludFpDb1ZMRDRjTTZ3YlBoc21nVENqU3dxU1Z0ZzVDeUxJSmJiMkUzTkRJTFVfcWFsa3BhT284QmIxREZWRlNnU3FjNkRkWWFXYVhER3NfNm4tNEgxSjloelI3T0F2NWJ1clFvRWZodHNI?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant development in medical AI for healthcare diagnostics.",
+      "urgency": 5,
+      "time": "2026-02-24 18:12:50.250047"
+    },
+    {
+      "title": "IT rout drags Indian markets; sector on track for worst month in 23 years on AI fears - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONG5NMjk3NS1yUFdYT2NaWXdzcWZ2dWlOaGoyOGpsOVJZYldyVWVKOXlvVjRsVTQwYV9XOE8teUo0ZnhsRWQtWDlzVnpwUEpaNDF1QXlqNk5rWVMzOG5MMmUzNzVmQ3RZVVpwTlJCRjdIQ1kwUTFuSXBkcGxWOWFOdVpzS0VDdmJYY0xGTnZMVVpNVEl2TVJENUZXTTRacWVic2pGSG8wT3RlWGJHdDF0aVZkOHBKRlRldHc?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Significant market impact with IT sector facing a historic 23-year low, causing broader index drag.",
+      "urgency": 7,
+      "time": "2026-02-24 18:13:05.279840"
+    },
+    {
+      "title": "Stock Market Decline: TCS, Infosys, and 264 Others Reach Low Points - India News Network",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnRzVXFzYUhBd2pmYi0tTEpNcmhwMzBsWTdOT2ZXTDdTVF8zOWdQMks0UmlQMlM4bDVIcnNKTzl1ejBSMEhzTEpJSjI3QkxIc29XTnVWTFBNQ3J2bXJiemxlWHphampPUUdJbXVMbGRVQ3pKM0NfLXhsRGc3VDhaLVZTcXIzTFkyczFNbGN1cVZTTmVzVlRCNjBQX2dUd1lKQXBNb1lCWG4?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-24 18:13:15.390809"
+    },
+    {
+      "title": "Stock market today: Which are top gainers and losers on NSE and BSE on February 24? Check list - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWHRieXYxNTkwd3dRU1VHWUxiTjRzNl9WZjBSNDliemwxcFVNb2NCaWI4WVAwMWpibTFZOFBEWkJaQmloaW1tTTNYV0VtLXJmRzM4bG1WZXRleDl3bEJjUFBBUFFCWmhwLVd4R1RfLWc4TXBLLWVLdU5DSDZ4QTlVaHhfU1FDd1dzR1NNaVlnMDl0dGdrcXl4YXlGaDladkktTW1pbGUwV0g1bllwLWkxT3RGRGtIMnhyZGVqNEVoVmFvaEVfN2FrU0tvV0JDODVRU0ljc2paQXVEaldrWkoxUXVwNmt1bHNDQUZZdV9UQjVKRFFvUEtHbjhYSHlBX3c4dTB2Q2V4dlFvQdIBjwJBVV95cUxPVVM3Tl9PQXYtU1Z5emtYVWxWd05qNWRUY19RQzNQRl9RcTlxN21FWFVoaVVaNHU4eS1Cb3pLbE1uQk9HM05CemRNVWtPTTdnRzY1bFFMUHdKQzVGRlJqb3pRZ1ZIdWcwS2FvcEVHQ2NSaTZ3ems1ZVREZzM2MUJsZ2JIODM5RWRieW1SS25PTjZWbjZ5QjZGWmFTTkphc1JsWDRfNm5tZTB1ZzhQSDdNVzA2R0t2Z1RJalE0dFZ4MV9oOWRXVW5xWWx1TUZUWk1VdzhVekg5ZVVzWVJUcDZ0UGljQ2htSjhOWWpVUEVTYnJJMlJWSy1WNjczWF9sYU9heGJIa3BUMWVpSmM3YnBv?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-24 18:13:25.504138"
+    }
+  ]
 }
