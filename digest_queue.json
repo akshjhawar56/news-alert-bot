@@ -111,6 +111,14 @@
       "reason": "Error analyzing",
       "urgency": 5,
       "time": "2026-02-25 05:40:04.264950"
+    },
+    {
+      "title": "Stock Market Live Updates: Sensex slips 730 pts, Nifty 200 pts from day's high; India VIX down 5% - Moneycontrol",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNjJNc1lEaU1NUUZxaEszVjVtazEtdFpnQmF0YUUwSGlqX3FXcDVfVXNkOWhmQWg5LXRxRXhXMlBQdTQ3MjI2Q2twS0FxcV84VDc5SE53VXB3UEZ5RlVXaS02OEZ4V3NMQlNOdU53REpFbDdLSGEtQmlaX1ZJazhPSl9NcWM3QkhXc2MwQmluNllCT3NBWGNacGN6RnVnTnBndEdwSE5lWFNvclNNYmtoMXRpR2ZnXzRySXBKUTBLSzFxUVBHYmI5ekZuc1JGTTZjS3NiTkdqQi1SVUUxRnU5aDNScEt3Z00tOExWUnR1c2Q?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Significant intraday reversal from highs, indicating volatility but not a systemic market crash.",
+      "urgency": 5,
+      "time": "2026-02-25 08:06:24.464608"
     }
   ]
 }
