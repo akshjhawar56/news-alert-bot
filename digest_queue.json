@@ -1,3 +1,36 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "AI ECG Model Predicts Cardiac Arrest Early - EMJ | Elevating the quality of healthcare globally",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzJlSzRaRTdQWmRNQ1lPZ01TLWpWWEVuX21zTFl1RkQ1eHVVWDM4ZW8wR0tLWktZTWtTMDhlTUpjR0RXTGdJaHVmRHJoUnUtRl9zWDMzQmtlTlJkeHJUYm1QM1BLYVpUMENpYWtYT0pIRndPV0l5Z2dmMURCUEZaUkRwN19DYk9iQklpZkpFRQ?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant breakthrough in medical AI with potential to save lives, but not an immediate global emergency.",
+      "urgency": 6,
+      "time": "2026-02-25 18:15:16.002476"
+    },
+    {
+      "title": "UP politics: Fight for Brahmin votes heats up before Assembly polls - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2tYRnlyV1dTMzhfbnlNS2g4WDdOeFdIamZ5eHd6V0M2VXBIMDJodnpfOEcyWlU3d1FCamNiRHlDRU52bGsxQUlaUDhaZ0U2WHM1V2FHMjB6ci1ZMnVlN1BjaW4tR2c2U3FNazRSR01xZXNvX2R6MTA3RGRkempydDJVeUxDaDkxVkJsSmVJQkdtY0FOTUU0REs3eVRQUTMwWTBocXJLWUFjQWMy?oc=5",
+      "topic": "Indian politics",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-25 18:16:23.571635"
+    },
+    {
+      "title": "Sebi chief Pandey flags India's resilient growth, deeper market reform initiatives - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ1VFeUxkZC1XaGd1aWdjWmNFcUZzUGNQZ25CcTVvVVlQOE02M1FyVG9RV2ZiOGNvNGVEMEE4NmU0aVk1aEs5R2JHQ1Q3VHdncjRiM2NsX2hvZ0tOUmpEWnFJc2o0R1N2QzF1S3lZcXhTS0h1dlFzMFMtaFJ1QkFJakVEUl96bXI5cFhtdnpiaWhRWmtQVlloR0hOSU9CRFRvWnZGUU5waTZnRGpFQ0ZXZ1hEcEM3QkZDdTlTbDhGT0RwVkx6WmtLaHBBejlQbzRtYzZmWFpXbGZnekRLUmdMa1p2RmwxY3Bpdm1tTzBPYldYbzEtMG0wSzRn0gH_AUFVX3lxTE5JY2l4cThtbmRDMjgybXZkTlNXQXZaQ1dIbTBMdjFvUERpZVFod01qcUNUV2phLXpfRmxpTW1fV0I5dzFUZFQ0NFpQZ19rZjhLOGtYcXZtaGNmeFFaVEtXOUt5WVE1NE9ENkQ4bE8tM3lyZ0J3NFRVcUdWYWZQSUlRM1pWbHliQTBweXBWTTlsUGJTRjZCM0pxUVZKTDZMSkJXZzFELWhvZnlQQ2UwUVpkZzlGdU8yU0g0OFktNFAxRGhGTVBKdUF4ekpiQzlpaE1WUWJtTm9HM2ptS2VoSkRsUXN5ZmpEMTg2NGZka1diQ2t4Ym11TTB4alpXTWVzbw?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-25 18:16:34.408254"
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock market in trade on February 25 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeFQtUndRbERsazRGaEQwZDhnZ1VpM0hIWWRzUlNabllZWXFIU0FpeUhfdUxqR09nR0dObE13a28tUEVJOWdLWDU3VnhtT2RXSXFSMXZjMWJLZHNEdEcwSGNtTmEtaGs2TjNNSHJ3UVpDS254dEJ1eGctdjhQZ0E5VnV4cnUwVVh1cjMwbGE4QTdEVEZKQmJPVFUzQi1zajM3RHktVDRyRXlQWmtPU09oQzQzRFBrWVZPeEhuaDdkTmJnT0xaVm1HaEJGYU5IcUp5bU00?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-02-25 18:16:44.523315"
+    }
+  ]
 }
