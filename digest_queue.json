@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Stock market crash: IRCTC, Suzlon Energy, IRFC, among 255 stocks that hit 52-week low as NIFTY50 closed at 25,178 - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUWJZeEVxY3B4M2RWamxwd3YwSWs5QnRUR05qdlhyR0JDY3U4Yl85ZmwyUFNGdll2bFR4d0NDREZvZzM3ajlSN0hFUDE1aG1MWTRhWGlGS2xwbFdiU0cwZ1F6ZmdSTjVhS1BORHJxc2pxa05OVWJtY0pUVnBUenlwZWdHNmtHU21oZjJJbGRqYjZsbG1zNVpLcG8zeDZqSUszZWk5Y2kwel9KVXJWMTRHblhDNi03NU5OMkZiaTB0eUUxc2FDdGZ3WkwteVFMTWJkUWRxT1V5YklkeTQ4bHhsUTVkVlZmNjBJdm9pUHJOQ1hKUGFOMHhyOUtTZVBhQQ?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Reports of a market crash and 255 stocks hitting 52-week lows represent significant volatility for investors, though the NIFTY50 index remains at a high level.",
+      "urgency": 7,
+      "time": "2026-02-27 16:02:06.962902"
+    },
+    {
+      "title": "Indian stock markets shed over 1 pc amid FII selling, weak global cues - ddnews.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0xENFBGZUdFS2ktWFpSckRxNng5M09tdEVGWEIzWEVHTzBuMjl3OHpPTTl0dHVwaG1tamtkRVE4eUNGM3RwQWctcTZmdG9FeEdjcUlmaEJ6T1cweWlYcmdPek9EcWhTS0FVUUxPZ3I4czZwejRiRnZhVUlsOURkb1VDUGpIUDBSZS0wdlh2aHZQR3JwZHRBc3Z0dw?oc=5",
+      "topic": "Indian stock market",
+      "reason": "A 1% drop is a notable daily market movement but represents standard volatility rather than a crisis.",
+      "urgency": 4,
+      "time": "2026-02-27 16:02:34.986112"
+    }
+  ]
 }
