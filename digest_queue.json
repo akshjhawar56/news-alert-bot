@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "AI in warfare is here: Pentagon used Anthropic's Claude AI in Iran strikes but it has many LLMs and tools from other firms. What we know - WION",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOc2NVZHk1dWlndGZwQXpIRzkwMWhTVlBxbktXeXhUMHoyNnZLbUhoN2pDV2Iyckw0S3VHWjhaNkxMZ0dCUVJET09BeWtCdDR5QjBlM01xZDBSRGFZY2hjSkwwcmprWlU2MGViU0RuYmVsUlZoMDdfVXNPdVZvZHlGRlFfTHd5SVFGMVlRcDFMaktvN0lJX1JwUVFrbFJnOUczTDY3U1JHQ2RKQ01WSDlCMmFlZFZ6RGxRVXd6VlE3WmxWTG5hT2RvYXZRU3U2OWNiVkhiNS15bi15Y0hweFFCZHc4MlV4aUM2WXIxR2dzTE1YMEtFVlU5UkM3TzJlU2FGbmNOU20wT2RlUdIBjwJBVV95cUxQMDhGMDdDYm1PVjRYVWxoTXo4aUZoVWduM2I3ZHQ5ZkN4Tk56dTc5SVpJQXJ6b21US2NwMTRsaVhwNlFwcFVPNlJOeXdJdVNtMDdUN3AxTnpNQnJDdU8zOFAxMGZJQkktak15VHF0WUNpenRDVzBSUWczQjkxeDRXR3dvN3hOQzc5a3RXYzZXTkRrQnBVMXZTTmMtS20zSExUNzM2dW9IVkpxaUFFRXUzQWVMVGUxdWpKNjc3b1NBcmNUMjNKamNMd2hCSF90WE9aNDYzeWNIWm5QLVFsZjJUbmtYTXQzanE1N0NnVFozVTJkUm56aWIzQnU1aHo5SGVTV1lhS05NUVItMGRBUEE4?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant escalation in the operational use of LLMs within high-stakes military and geopolitical contexts.",
+      "urgency": 7,
+      "time": "2026-03-01 14:53:16.051005"
+    },
+    {
+      "title": "US-Iran war: How Indian stock market will be affected tomorrow? - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTlaY0g3dlZubDF4X1lzRG00Z21PTmNRTUhrb3A3bW9UbWpXaXNfd0ZhVkgweHduZUNEU1NWRW1LTGw3dzVwSzlaNjdmZUR2Y0JQWTVqTHVnVFdGcDNNWmx1MUNzSTNmSzlXeHpISmNyeHhWQ1kyMG5qazJFMnFTT2MzMDJ1cDZvLS1xT3lMTmJrbVpxZGtWQkdmeDFWUHdJMDZmUUVySVJIWnpmRmlQWUtTWVFGUGJk?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Speculative analysis of geopolitical tensions and their potential impact on the market.",
+      "urgency": 6,
+      "time": "2026-03-01 14:54:23.540071"
+    }
+  ]
 }
