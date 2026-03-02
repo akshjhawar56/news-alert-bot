@@ -39,6 +39,14 @@
       "reason": "Error analyzing",
       "urgency": 5,
       "time": "2026-03-02 22:57:42.964843"
+    },
+    {
+      "title": "Our agreement with the Department of War - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KVGk3d3RxZjEtQlVVUl9FTUVjQThEQWdIMFJwOTFZNDNORHo5b24yRVJXZloxN2VfMnNPODAtVEJDUkhEWW5YQUZwdzlfZ2kza05UMjlQWm5TOEVXX2xST1JzaXVTOTQ1c051UDFWVDg4ZFlZ?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant policy shift regarding military application of AI models.",
+      "urgency": 7,
+      "time": "2026-03-02 23:55:04.904201"
     }
   ]
 }
