@@ -7,6 +7,22 @@
       "reason": "Error analyzing",
       "urgency": 5,
       "time": "2026-03-03 19:31:59.536613"
+    },
+    {
+      "title": "Scientists make a pocket-sized AI brain with help from monkey neurons - NPR",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwZzZIZkdrNTdraURTd0toelprb3BaSzM0ZVlhUXBsemZMVktuY2NGZ21CX1lTdllqYmlINEUtR1hxbTRKVUNFeDUyaElGd053Q3lleDdVRU45WXgwR2xTN3BUTFZKcU9HTzJaQWcxNVlobEk3RW00?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant scientific breakthrough in biocomputing, but currently limited to research phase with no immediate global impact.",
+      "urgency": 4,
+      "time": "2026-03-03 21:01:27.350450"
+    },
+    {
+      "title": "Intel CEO Lip-Bu Tan: \u201cIf we\u2019re not careful, China will be ahead of us. DeepSeek was just a wake-up call.\u201d - CTech",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xM3dFblJKN3BUb0phZm9Vc1h2Y1c4UUhncTVTSW9na3NhaHhCcHdfelhCbjlXbGhnNGQtZmhqVGhUNFZlM21mX0U4bElidllwRUt1by1pT1ZfbnhhSTY4Z0pqdGRNQjhGTUE?oc=5",
+      "topic": "AI breakthroughs",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-03 21:01:38.186069"
     }
   ]
 }
