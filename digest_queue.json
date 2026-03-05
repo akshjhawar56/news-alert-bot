@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "LLNL and Meta Co-Develop Future of Materials with Groundbreaking Polymer Chemistry Dataset for Training AI Models | Newswise - Newswise",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUjgtNFY4QkJnWWdGdU8xUHJZektKc0dXM1lXVUhoZHppNHJ4MzFfSjd4Z1FsZUp4OFJZS0NwMkFtTEw2dm1PaldhR0FKXzRtb3JvYUV4bUJyd21IbXJ5ZTBCeklWTk95WGNjS0dpVnJydWZ5UjRnNXJTMTUzT2w0Nk9rVzV6dU90WjN0SHV4em9taEQySkU5NUNVdnM4YkRncDU2TjhhLTd0X1ZzbVcxWmdsSkYySDNFOGRsQ1FCMWw0eTJDU0ttVlhob2xaY3RoZ19kMFFSekdJSGhlVktJRNIB4AFBVV95cUxPUjgtNFY4QkJnWWdGdU8xUHJZektKc0dXM1lXVUhoZHppNHJ4MzFfSjd4Z1FsZUp4OFJZS0NwMkFtTEw2dm1PaldhR0FKXzRtb3JvYUV4bUJyd21IbXJ5ZTBCeklWTk95WGNjS0dpVnJydWZ5UjRnNXJTMTUzT2w0Nk9rVzV6dU90WjN0SHV4em9taEQySkU5NUNVdnM4YkRncDU2TjhhLTd0X1ZzbVcxWmdsSkYySDNFOGRsQ1FCMWw0eTJDU0ttVlhob2xaY3RoZ19kMFFSekdJSGhlVktJRA?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Major news for the topic involving a groundbreaking dataset release from significant institutions like LLNL and Meta.",
+      "urgency": 5,
+      "time": "2026-03-05 19:03:07.524415"
+    },
+    {
+      "title": "Iranian warship was sailing home from India exhibition when U.S. sank it - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0NkcGowejdiQ05SaHFCa0drdjVwdEZIUl96ZHVrUXFKVVZVWElpejZ2N1hreXFIeTREbVc3Yk1RWkxubWh1NFAwTW5NbmhfR1NsTnhaazNjUHUwRDBNWGhLd1pBWGxZV3VON1g1TXJENG0wUWY1RUNjcVAtRUxFWC0taDZDQmNpOW9jTlIzdHdjbVlnVTVZX0N6UzVtQW0yY0U3RnRFYWtMZ9IBrwFBVV95cUxQMzJKNGZ1cm1ycS12cTFUak5FRDZqdnJKR2RvS1hwZDNWSE90eGUyUTk0djJFMGxDVU5oekx5Q2JRZHR5VmVobDBXbVNWZXUxZ1FWTHJKZ1pGZEF6Um81S0s3RG94dTk1OHVhcG91VEw1MnJEd0poT0ZkSWJfRHhnMmhTN3RQOHd5aGlMTVNONGFqSVppS2hxMDlOS20yV1k3bUNHSlhHaG9ZZ3FJdXhj?oc=5",
+      "topic": "Indian politics",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-05 19:03:45.899437"
+    }
+  ]
 }
