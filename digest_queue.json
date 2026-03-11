@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Why sovereign AI for India is a strategic hedge against a \u2018compute divide\u2019 - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVG9UdnU4YXBZWmpiYjhIcUhJTzhQbXdxNGk4WGtNeEpoU3lXVDljUk43VXV4b0dhWEg3NTJ6eVJTblNRQmdrYUI1TzJkcG5YVzNmWkwyWlA3N29wWDc0NGxDUGIzcl9VRzI0T0k4ZVg1VHliZW0yQ1lKNC1lS0dqSnhLV3NQTW9fN0N4bzNqdDdKUm5wclBrZ2Y4REpvR0pES2s2NjNyZkZNMDFiYzUyd1hNSWMxQkN5UWNqYmhtWFNGdnpZMG5kcnY4TFZnd1JlcUdERXJVbUtjTjYzM2RWeTlPUTNPQ2FB0gHvAUFVX3lxTE1fWnJYM0JEWGJIM0lXOWR2T2theXBkU0FIWmFCY0ZHOXk3QXd2bGFYR3BSZlRnOGNKSzh2dTdhTERyNXdBN1BVdXJSZXRpLVZIVXg2Nkk0dGRlTmdYMXN4SVVwbmo3eXl0NXNSRlhxWnBqd29vYmdaRWYxdDNZa25lN2ZWTWJsZGppOG91WUN6SWRmTlVGVy1May1hUGNMYUdxTlNVVlNYdVIwOG1VTmlKMUI2RG5xcnJVTlZacklJTjNacGU4Ti0xb3Q4ZTEzS2kxbGpMLVB3anh4R2lXTm9GY2dCVWRDYUhPTHJkQWxj?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-11 14:23:51.918961"
+    },
+    {
+      "title": "Sensex Today Tanks 1,342 Points | Nifty Below 23,900 | 3 Reasons Why Indian Share Market Is Falling - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOHNaazZOaUVBNVVtZ3FvaUlRdmdUSjgyS1JRYmFrOUtqamlwMDFvaUxtMjIwTWl5R05WeDhZNHFUdFRHM014YkRPWTVfbi15aS1GbzIxcllTdzhFTTdiUzdzajZZc0VUdXlNZnM2WkZQZUx0aGVNb05xV0xrV2Rib09iN0RhM2ljazBld2VtZUR0a3hVcllsdTh5Z2FVblVIN01BcXpQNTZlZGtOcjB6dmZWLWFLYndiZHRQUjlWS1RQSTROclBhcldxazNNTG5FQzBVRENWSzF2LXgzMWp6M29xU01VNldWamRLcw?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Significant single-day drop in major stock indices",
+      "urgency": 7,
+      "time": "2026-03-11 14:31:08.579070"
+    }
+  ]
 }
