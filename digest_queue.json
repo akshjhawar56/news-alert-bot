@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Nvidia Set to Unveil Next\u2011Gen AI Breakthroughs at Major Megaconference - Meyka",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkRteUFkT21kNVZJUlh6RmVBTGNhblRJWi0xSUYxaW1UcTc2N05NQ1FRMGZsUjNrX2RtQ0FRSm9RS2RmMWVZRFhIanh5MWNlaDJoaUxUbjFqcEtXMy03V0drdXVMY3I5TlVqUzlTOWZSNUlJVFFfX010ZDB6Tmx2dG5hTUdyTUVMdmZDTkJjektPcFZscmZCQXBn?oc=5",
+      "topic": "AI breakthroughs",
+      "reason": "Major upcoming product announcements from a industry leader, but still a pre-event notification.",
+      "urgency": 5,
+      "time": "2026-03-13 15:05:33.096807"
+    }
+  ]
 }
