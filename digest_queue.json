@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "India news: Clashes reported in Kolkata ahead of Modi rally - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVByaWZtOVpkY3ZKdkNWWVNwTlgwY3REWl9idzR3RWVsalhLWGgyeDMtTV9LQTBKRUdvVlNQSmM5OHJUMWVOTFNzUTkwNWxyZHJtT25veXNpREJNY0gyalU2N3pZMmlON3JsTUpWa19DUE5NSjRoU3JvY1o4SVJQQ2NmM01oUFdrTzQwLUg2bnBST2c2cFJ4cE1B?oc=5",
+      "topic": "Indian politics",
+      "reason": "Political violence in a major city involving a Prime Minister's rally is a significant domestic event but not a global emergency.",
+      "urgency": 6,
+      "time": "2026-03-14 13:51:49.727441"
+    }
+  ]
 }
