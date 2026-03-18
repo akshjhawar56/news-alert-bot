@@ -55,6 +55,22 @@
       "reason": "Error analyzing",
       "urgency": 5,
       "time": "2026-03-18 16:34:48.113567"
+    },
+    {
+      "title": "Top AI models underperform in languages other than English - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1p2LTlWdk1CRUw2MF9JUWJRUTNrV0lSX2JwM21iSlkydWRmZHdPLWtLZUFWeFFzdWdORXdZbVkwZGIzb041OFhydnFRQ3FudDZQTkFTN2RMd0xXRTdfLVdsQVc2c09XSURMOGo1bHhHZnl6SkNodHRXbWk0UE43OFU5LXFhdmlqUVFzNEFhd0RMYXZDZWVRaUIxcWJJQVZHNkN6VkxLa29KQk8zSXRkTDNkc1NJZ0NkUGc?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Highlights significant performance disparities and linguistic bias in global AI deployment, but is an ongoing technical challenge rather than an immediate crisis.",
+      "urgency": 4,
+      "time": "2026-03-18 17:43:17.156561"
+    },
+    {
+      "title": "AI model trained on 14,000 Urdu news stories spots misinformation with 96% accuracy - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXN5TUhzeW9zdlNfWjJycjNaLTZaZkZQdVdudUVieWZuZDk1WkFnVmlqcEZXR2RTV0NaeUt1c1JtLW9GQzdiS0N1MGZaU214ZDkyc20wVUE2R3ltUFlITlNLN2l4dzctMXFzRHZ2SlZMRFVodEJJT0pVRTRpMlZYd2NR?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-18 17:43:27.248554"
     }
   ]
 }
