@@ -1,3 +1,36 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Mistral launches Forge to help enterprises build their own AI models - Computerworld",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmV3M204S1FGNEdVRnVJaW1WN293Q0pMTWhYNFFPd1BoZ2xiR3hzV0pwTnpScHRSMk5JMEktWlBGbmRYazlrQkc1QndMOHVIZ3VQb3FaeUZqd1JLZF84akF1dnVTTkVlRnVpQTlDaml4b3ZWdDFGNlhlQmhpTEQ1Nkl0OUR4ZjZ0Mk5MMWZxNHY2NHZpUHpLUWg3Tk0yR3BlYUJCbWF5b2NiMTRSeGk3dUxGZE5VYkl0YnZtOWlR?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Major product launch from a key AI industry player (Mistral) targeting enterprise development.",
+      "urgency": 5,
+      "time": "2026-03-18 15:10:15.437042"
+    },
+    {
+      "title": "Mistral Forge Transforms Proprietary Knowledge Into AI Models and Agents - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHhTOWptUzZ5WXRuRTRydDlxbS1NZzhLcGJTQ1l1SHJwS1IwR19INm01OExBdHNVNFdsRUNGd05hOFJCa2xScHgtZ1AyT2t4Q3lYbldqdGxOOGFyQU5ObUtoeUZxaHp0eUF4RUR6c2hCd1FjRlBkR2drM0xlZFpoaVRfcVIwMjRPOExtWC1XdEZLMms5R0FJbGpwcjdLR3BJeXlzVU1qVzdIYmxBRGsyazM1dWZaZkZiMjNleHJkTk5hMTlrWEE?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant product launch from Mistral, a leading AI company, introducing new enterprise capabilities for custom model development.",
+      "urgency": 5,
+      "time": "2026-03-18 15:10:29.867602"
+    },
+    {
+      "title": "Will Markets Open On Gudi Padwa, Eid, Navratri 2026? Full Holiday List Here - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTZYNUV5bWp0LUx1emxZbWh6QTVOOGxFeFlPT3hqb3lCUTlVbnQ0UzdYdFRHenJ4WDBiZDQ3VUdIUERsTTNMZHJZektvRDJWNVNINjRiYnlhN1BIYjhvSzdoVEdiZEhxMGtncVlCMko0MU5nai11SmEyVEdRVWw5R3RGN08tUEN2cm05OEh6T2p6eTR5M1ZRMk5sMXI4cWp5eUxoWjBFbEJ1a3M3N2VvVnB5dzcxWkNLSGI0V0NXTzhhS3d0b3JPUzdhTENDbVRuNU5Ib1daTUPSAeABQVVfeXFMTTNfSFdtbDI3VlpudGRDTndKNkVoU2V1TGwzSXo0RzVIYngtY2ljbzh5YXI2WGhmX3ptWGhrNVQzQzhtSEI2d0dYTm1ITG5PaXhEMnUxaEEzQTQtOFpwc3VaX2dDS3FFOGRCUkpzY1NmY19RX0xRNGplS0xYVFVIc0s5QXo0Q19EbmRzX0xoSC1XVG9HNnhsRjJZUW9SN3BadWpOM3dURG54Zk9rTC0tUHZrM0dFeGFwWHllWkFxQzV4a2gzWFE0eFg4SFVGVzhYSEJPMlZTMHp4R3NucEx4VmY?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-18 15:10:42.179900"
+    },
+    {
+      "title": "Indian Stock Market Today: IT Stocks Power Gains, Sensex Jumps 633 Points - Open Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFh3cVpkczZRaFB4ZVh6YzhWaG9LZFdWbERJR1NTUUtfb2kxaGRwVXBzeUJMampsOGxGYU10YXpZRXQ5TkFjZlhvWmtEVzVTUzVHSjExeV9CdjRwR3lzOVIwVS1jYmNYa21IVkIzUGxLSW11a3cyZmo5LXFqckc4WjljdG9iX3pYcnU2OFdlSlB3YkptOE5wRUZ3ZEhkNDU2bTNmbGZDenZXUFh6?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-18 15:10:52.322066"
+    }
+  ]
 }
