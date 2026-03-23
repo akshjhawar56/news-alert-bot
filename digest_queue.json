@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Indosat Unveils Nationwide AI Initiative Using NVIDIA Nemotron Models - The Fast Mode",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVVtN3JlYTEzeEx1eHRrWFJBdnhsQ2NQNDNHOUQ1YzZoWlBLYWpueWJCU3VKWjFGbS1iWE0tWC1EdzJLTDdoWW9sdjZyY28wbDNINTlGcXJaWXZHWGJQS2JtZ3ZNdjZKV2w1WHZGdjZpT2thYmhVOUtjS0FfOXJHOXQ0RFhBeFRhcEtyc0xabWZZdnQwV0Z1ZURHOTdaV3BzSG44WkVkMkU5dGxCdDMxSFBqSkxhVkViRUFNbWxiYWFMUQ?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant nationwide deployment of specific AI models by a major regional telecommunications provider.",
+      "urgency": 5,
+      "time": "2026-03-23 03:19:08.651371"
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock market in trade on March 23 amid escalating US-Iran war - MSN",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYXVtTWc1a3pYY0R2amNzOThFMmluLVA1Wm9STG1mblNueGxFd05id19yam1SQUNMb3RaNnlYRzhoeEZFYVZHZkYtbjdyUU5sN1V3VnRPWWVPSWp5cjRia1lrdUJtVzFUS3lrZXhnS0Ftc3BqQmU4UnNQcWZlWDdFQy1vWkRoQ0FNcTBENEUyQlNmUkVQTDVaSlFBczVaQy0tZ1p1dTJXWWVJYnpMc1luNWFGX2tWUWVBMzhBTHFta1F0RGpNMkpRWGkwR0tfUmNlY3VaYk5MSzFMWjFRUldhNVBkcUJ3ckItdEVtX3J6ano1TWdiVGM1RnFXX3BIendadkZhQTdmNHdsMERRX3FlV2JUOUx3S2M?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Escalating geopolitical conflict (US-Iran) poses significant risks to market volatility and oil prices, impacting investor sentiment.",
+      "urgency": 7,
+      "time": "2026-03-23 03:19:50.624455"
+    }
+  ]
 }
