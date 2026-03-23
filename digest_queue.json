@@ -1,3 +1,28 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Modi sets record in Indian politics - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVdPWkx6Ul9ocDdMV0FRRHA2emhpRVcwYUItNnFsaEVtblQzdS1vX2s4eEc1S3JqS09xeEVoRncyX081UTRTbGZRWVkydE8zVU1QWU90RVhibnpvamlrZ2JJSWprZmUzSXF2ZXFGdFVGZDR4R3RVM2xLQ2locVlSdTdpM0RWQXF6RG1USmNGT05sSzYxWk4wMlBmNGthb0hsZEgtQWY5azFZemRjNmxnQzh5TGdoUUh1cFh1cFR1X1JLWlBULVA3bmRQTGpERFVwLXE5YQ?oc=5",
+      "topic": "Indian politics",
+      "reason": "Significant political milestone for the topic, but lacks immediate crisis or emergency elements.",
+      "urgency": 5,
+      "time": "2026-03-23 14:41:22.300589"
+    },
+    {
+      "title": "Stock Market Highlights: Investors Lose Rs 15 Lakh Crore, Sensex Crashes 1,800 Points - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeVJNQkdic1JlYnZZdGpZSXhmbTNoS2hvblJoUUFYS0hqSDF4dExacU44aEwtUFpiT2VQaWlMXzI5dzdVWjBCYklKRTZkenhRS0Z3dFQ0eFE5NFZ2ZmstRWtZOXZrNWpLdmpFWjdZRHVQU1lndkNjUkVzYUZMb0pVdTlGNFdaODhEZ2lHcy1TNzYtMGM3ZE9iXzVWUGVuTWlBRF80d1h3c0N2aVY1b3h1NndLVDdxeDNKZXFncG1aLW9hWUttRjdycU03aXJkeWh1RlB3bmhnemNtVTB4dnEybHZHV1BmRVZYV3FYX3h5MXdHbzEtc2tn?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-23 14:41:45.551483"
+    },
+    {
+      "title": "Wipro Launches AI Data Center Solution Globally | NBCC Secures Multiple Domestic Consultancy Projects | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZE53Ti1QbnM1WTZ5MzBmWnNOYzUzS1hUVzFtbjJFU2Y1Y1ZSUzFDcFBZb210clJ5MkN3NmhOSXhGekJRWUdhbmNyMkxkYkU5SnZSZjljN3hZUTlGdVpBNnExRG5RVTNoNXhLV0V5Ry1iQ3d4ck9RVnVuMFY5VDBJMWtFQXJMeHBQamJ6Y2xLVXUtc2xaRWtDNkRIX1ZvU1lsRUxON3I0RWs5TkhtNkZydzgycldsVHNwaGw1eUpaQkFpelhJZTB6Tk41dFF6eTY4d0lXc0FNcWdsZFdKS3QtV2dHblFBckpMQnFKWi0tUlA5NTY1a01qdjR6ZUZrdWlYd0NMSENwWVhtM0NYS2tibVJkY05QZw?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-03-23 14:41:55.712528"
+    }
+  ]
 }
