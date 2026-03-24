@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Indian Stock Markets Tumble Amid Global Uncertainty - Evrim A\u011fac\u0131",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVZuNVBuSDRic3hGd1lDRnVLVWpEUGEzMWRjejRUb25jc2FvR3g0T2JUeWhpdG9FbVdYVE9RMzZrTVh4Sk9hN29JV1hSME9KdmNRNXdaX3BwZWUxRHJnVS03WF9wclMtSHVEZ3M3MzNMZFRqQ3JrY20zTzlTYlFqdVdlYmxWMG5zQTNHSWpR?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Significant market drop reported, representing major news for the topic but not a total collapse.",
+      "urgency": 6,
+      "time": "2026-03-24 17:36:23.948890"
+    }
+  ]
 }
