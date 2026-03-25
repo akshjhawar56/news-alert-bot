@@ -87,6 +87,14 @@
       "reason": "India VIX reaching 25 indicates high market volatility and investor anxiety, signaling significant risk but not an immediate crash.",
       "urgency": 6,
       "time": "2026-03-25 09:35:32.795803"
+    },
+    {
+      "title": "HP will cram a 20-billion-parameter AI model into new AI PCs - Computerworld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV2xVclpTdDJMZWhDU01vZjNQbmt5V2J4ZDBteENfUElUMGpiWGN6ZUoxQ29UdC03OE50a1BaeVVBVHV0eWJ3Wjdvb2kyOU5wUzRJSHFua0JlOGdBSVBxMkh0VTRMdFpfT0xJWURVVjV6aEZnQ1dUSmJzbzZ1SXB0dHhfNWNTaUpXSHpfVG1xQkhxN0YzMjdGTW5odFBLUm9yWldKR25kc2x5Nk1RSFhmTg?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Significant industry development regarding on-device AI model deployment, but remains a standard commercial product announcement.",
+      "urgency": 4,
+      "time": "2026-03-25 12:07:22.408656"
     }
   ]
 }
