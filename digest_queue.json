@@ -135,6 +135,14 @@
       "reason": "Significant single-day rally with Sensex jumping over 1,200 points and Nifty hitting a key level.",
       "urgency": 6,
       "time": "2026-03-26 07:38:26.638615"
+    },
+    {
+      "title": "Researchers Warn AI Models Struggle To Detect Malicious Instructions In Documentation - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15RWRtRkota29TNGtVVUVhYTE5NF9IMEw0c2lyY0s4eTRVb09XejJvMTJ3b1U1Z1FDUFgxUTExVjNzOC1Id3ZMVTBKUmRnVlFfZzVVN0NOMS1Jd3VoN0RCWFNFcXRPMmdVdkpkV3FUTkdYX3FlTk5Z?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Highlights a significant security vulnerability in AI processing, though it is a technical research warning rather than an immediate global crisis.",
+      "urgency": 4,
+      "time": "2026-03-26 09:43:03.769575"
     }
   ]
 }
