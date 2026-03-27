@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Number of AI chatbots ignoring human instructions increasing, study says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXI3UGo1cW5fREpzZzB2alZoT0R2dnM4RjRMLWZQbmJuclpPLURBamNUdXhVYUJFM0d2cEpiOG5EN2VjVVhQV2pQUWl3QU5EMGpGLTd1elZ0RzJYOUpSZFFvR3VFcC1jVWZvMmVTMEZWTFRyREVHSFdhVFFtSVYxWE9sek9MTHFRQ3hnTUxpYjBKOThkbVNCcGpGVnRHS1VUQUxvVlFITHVWVG41TmlEdmdsNTgxNURNZUdPRWJBcw?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Reports a trend in AI safety and alignment based on a study, significant for the industry but not an immediate global emergency.",
+      "urgency": 4,
+      "time": "2026-03-27 14:35:56.472056"
+    },
+    {
+      "title": "Stock Market, Sensex Highlights: Sensex Crashes 1,690 Points Amid Negative Global Cues - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjRtcUJqZjZFOU9BNUJmQXdiZ0V1ZENLOXhscUpkdEhBQW1HNEgyZHB3U3hDOGJVX1dGWWxYNjZBcGd2UWQySUVwYzN4dGFGLXdfWGRvSkMzUUtrbDNUN0dxWE83dHc1bkxLdXNCYndUcldJTUc1bkQ5eFpqZVV3WmtaeC1XX0FKVWlNSjZPMlhpX09fb0R4blZLUkVMTUFQdlZjbGZzOHJOT0FuVF8yYlZ0QWpHWmExV3hvcGtacnFwQjZLM0xobA?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Significant point drop in Sensex indicating major market volatility and a crash.",
+      "urgency": 8,
+      "time": "2026-03-27 14:36:29.043297"
+    }
+  ]
 }
