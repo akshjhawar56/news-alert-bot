@@ -87,6 +87,14 @@
       "reason": "Major news for the AI industry regarding a next-gen model leak, but not an immediate global emergency.",
       "urgency": 5,
       "time": "2026-03-27 10:09:19.822222"
+    },
+    {
+      "title": "Mistral launches open-source speech AI model: Why it matters - YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xWmI3d1lHSTNSQklXaWo1YkowNFgtZ1VTXzlVV3ZzTjk5OVlwSDFHWVEtNWk0N0NOa3dxVVRhVWhEWldweEFCYnphb2syZDJEVVNIa3JGSXFoV01tRlhaZEZyVnA0bXJQV09hbzhnd1NTaUFN?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Major model release from a leading AI laboratory.",
+      "urgency": 5,
+      "time": "2026-03-27 11:09:36.001308"
     }
   ]
 }
