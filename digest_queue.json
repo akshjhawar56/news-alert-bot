@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "HPE unveils Next-Generation AI Factory and Supercomputing advancements with NVIDIA - CXOToday.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmM3TXpuT2ZVaFQ3TDZoYm9CV3lwbW9kNEhiNEpGUng5cnByeko2bUoxMFZXV1RWZXphMFNCdWk0LXo2SkR0elBfMjB6S3ZLSHRRRjlwV3VZWE5jajRFcDZtenpBekpzZEhkcGJLNjZSeDFUWmh4U2U5VFp4TVZlbGdicDNuemhlWjFTYjJYb085UVFVYzVHNHNPQTl2Smp6S0l6QndwWTRqYkF4WExIS1ZGd0J4eDZBZDNn?oc=5",
+      "topic": "AI breakthroughs",
+      "reason": "Major infrastructure announcement and partnership between industry leaders HPE and NVIDIA.",
+      "urgency": 6,
+      "time": "2026-03-29 23:51:01.966651"
+    }
+  ]
 }
