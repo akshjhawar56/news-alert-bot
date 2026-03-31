@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "AI models are nearing \"Last Exam of Humanity\" - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwcERjNFpfRm9NZDFuMk05NlIxanhCem9MRGpsMmpUMC1TWmxhdU4yVWJqV3VYeWhpaUJKQ2ZWR0dCX0xhMFlGZUwtd1VHcXF0cW9jcg?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Sensationalist headline reporting on theoretical AI milestones or philosophical opinions rather than an immediate global event.",
+      "urgency": 4,
+      "time": "2026-03-31 19:14:36.617058"
+    }
+  ]
 }
