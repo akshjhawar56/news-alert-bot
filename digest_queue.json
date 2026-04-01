@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "7 Essential AI Website Builders: From Prompt to Production - KDnuggets",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWE1JcERKeEoxS1B4WGJVZlVzN3lTMzFjMW1KWFVibXZrSWpucmQ0WUlObnNVS3RzcVZablVBNnJuMk5aQkFSWW1GU0d5Vkh5cmZOQ2p2cE9OQmlESmprX0hkOHB0b2V2QTVraWxRNXNpdTdnUFdNa25YSWlrcExQSWd0SDFEZDJnaWNN?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-04-01 14:44:06.716933"
+    }
+  ]
 }
