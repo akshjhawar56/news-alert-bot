@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Google\u2019s TurboQuant Breakthrough Just Rewrote the AI Playbook - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmFmOFVEeTY4TjJwRFZMaEpnd3pYN19QOFl3RFl3c0JrR0h4VzFwaWhvdWVkSklxNXBWaV9mNW8tYWdTVFY1aXhHTmVCbkttNWhhOTg3dEk2cGtmeGw3T2MwRkFQa2R5LS1xRXJSQWZPeGhzTDl6LWZ3QW00amhtdjk1bmkzS0taaVNETllGSk1VRnVoXzByU2o3TU13UXRIU1NmZHg5TQ?oc=5",
+      "topic": "AI breakthroughs",
+      "reason": "Significant technical advancement in AI efficiency with major industry implications, but not a global emergency.",
+      "urgency": 6,
+      "time": "2026-04-02 19:18:57.799780"
+    },
+    {
+      "title": "Google\u2019s TurboQuant Breakthrough Just Rewrote the AI Playbook - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVY1My1MN1RVMXJWTHJzVW85RzBBS1lFYlN0QnhWeVFDVjliNXgwOVJ1LXpzWTJLTHdCM0dEdW1yNWlJdWIydVFGTnJsRXp6R1YwU0JDYy1YSTdZcGFOYzF2ZHB3ZmJWN1lxS2RhMTJNZTNHMVF4UnlkWjJoTURMNFB4ZFlKYVp4dmxNN0xpUnY5bGEzRG1HWHN3d2tqeVFyZmNKeDd4X3MwMDdCNzJUbW1B?oc=5",
+      "topic": "AI breakthroughs",
+      "reason": "Major technical advancement in AI model quantization/efficiency from a leading firm.",
+      "urgency": 6,
+      "time": "2026-04-02 19:19:13.888854"
+    }
+  ]
 }
