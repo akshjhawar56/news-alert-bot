@@ -119,6 +119,22 @@
       "reason": "High-profile political allegation involving national security rhetoric between major parties.",
       "urgency": 5,
       "time": "2026-04-06 21:47:42.345489"
+    },
+    {
+      "title": "Chinese AI models lead global token consumption - China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ZC0tNWNSWU9Mc1FOWEJqbVR0UEpFc0JVVFI2bDhYekljVmhJQTN3MU4tNWk3bDBJX3hfNWE1WUl5MDZGR3gzUzVidm1yX0tQS0gyeVZSdXlJQ0k4d1lDcnRXeUNTRDJyM3FqU1lqOWtxdmhBT3cybUlySExBUQ?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-04-06 22:40:15.485949"
+    },
+    {
+      "title": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0xhZFBNRnhPeGVjNWlhSzFobDMtOVoyQWZ6WXJvUk41UUpITFk5am9GczMtX1dGdDQzMlV4RWdmZjVPY3NtMWN1WnB2eUpoRXItcmhYM0pUWktZN2h6bDJTY3A5OWQ3ZUVDQ2FkNHVKVWZPTGZORUt2cWExWmpNVGhqMUtnYXBnaVVjTm9NTkhWcFVTeXpTTVhULUJwU0ZZLWdQakRJYU9WWTc1VGNYajF3?oc=5",
+      "topic": "AI breakthroughs",
+      "reason": "Major strategic policy announcement by a global superpower detailing long-term AI integration plans.",
+      "urgency": 6,
+      "time": "2026-04-06 22:40:29.998485"
     }
   ]
 }
