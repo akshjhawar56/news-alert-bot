@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Deepfake X-rays Threaten Health, Global Study Insights - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbXA0ZGt5cWNNSnFiMkUxc09pOTc3UTZNeW1nZ2JkSWJ5YVNzQmJFdkNkRFRqZlNMTGlFWE9LWnZncHZFSVF5UjBmak5zN1JYU1F2eFQ5b3Q4QnF4eUM3d0RRT2NkdmJXelhBelJHVzZRM1plcHMwcGo4LU9xZzdpWFR2aDRycjNYRHhENHJtVHBvZGlrWXJJTVZsNFktaGE3YjMza0xVeDJWYzExaVZfQ3lnQnpsUQ?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-04-06 14:52:35.127910"
+    },
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 6 April - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeEowYU1sUGhjSi13M180cWcyOUVLa1YzekRXbTZYanYxSlZpNXpvYmZnNE1VRXU1SUVGVVdQdW4xcTJkQU9OQ0VKQ2VVbV8zMXlySVRMUUtxUWt2OFNaSlhEcEh0ZjQ4YVVTMGtDQ0ZMdGtMUE5zcUVsRHgyWXBIcU15a0dwTGd6NllIMEZkM2lNdUI5NHFSbXBSaXZfT2xPTUtSdEk4cWQ1ZXNyQ2tjMFZHVDEyUjkycmxhWTJrMVJBN2lRdDRqSmU4UFlZSjNsMWFmWmpBVXBwdjRveGpIUzQ2SFpGSnJCZ3VpcHFER1hZU1pMcXY3ektBMi11YlRESmc?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-04-06 14:52:47.670835"
+    }
+  ]
 }
