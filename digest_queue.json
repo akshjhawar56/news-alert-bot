@@ -1,3 +1,20 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Scoop: Meta to open source versions of its next AI models - Axios",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5",
+      "topic": "Artificial Intelligence models",
+      "reason": "Major industry development from a leading AI player impacting the open-source landscape.",
+      "urgency": 6,
+      "time": "2026-04-07 19:41:33.051924"
+    },
+    {
+      "title": "Andhra Pradesh\u2019s Leading Political Consultant for Modern Politics - United News of India (UNI)",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2UxVl9NY2M2dEtSSERlQXJxUi1qdHpadUNSTTBjaE1aNzRmNlNBcVduUGoybGUzWjUwLWsweFlEeHJhcHpWWk5aSG9DYjdtOWdOSGVhSHZBTU9DYkw2Z3A4eTItQnhrbjNxYnNNYkZWV0M4bzhuVmJ4VGlNeTljeFg2Z0tvU3UydGU5SXpISzZBRVhIN2FBRjI5WG5MXzd4aWRZaFNMTVlxN3FWT0NlTw?oc=5",
+      "topic": "Indian politics",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-04-07 19:41:44.482402"
+    }
+  ]
 }
