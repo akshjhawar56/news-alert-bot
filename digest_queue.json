@@ -1,3 +1,12 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 9 April - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVU9Va2hQWVZrNm5iNUpCMllvaVBtQ2U1elk3ekdGOTV6SVltUHJaM1d6VURBemtPd1ZoelRlRG8zTGhRV0JNbkY0cXpJVjJYb1lrR1FrRTl3VmFHUWU0UE9HU0N4OEpJVGdJd2RjQ0tEaTRwY2dIWUJkZW1lLUlSYnc1cXk3N01TUEhVRTFBa2U4bXFSSExUVldRUTRRSERUdVlEbnN0UEZmTWVhRnZrVm1MTy1seEpQUGhxUlpkS0NoY0lsOXBneC1JZ2hyX2phUHZsM2k1LXlqVnVHMkRZUWhaTENlVTNVTUFkM0ppbEJqOXd3ZFM5LWpFR3ZCRWNaZ1E?oc=5",
+      "topic": "Indian stock market",
+      "reason": "Error analyzing",
+      "urgency": 5,
+      "time": "2026-04-09 18:14:17.834143"
+    }
+  ]
 }
